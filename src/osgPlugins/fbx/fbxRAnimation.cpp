@@ -9,8 +9,11 @@
     #pragma warning( disable : 4505 )
     #pragma warning( default : 4996 )
 #endif
+
+#define FBXSDK_NEW_API
 #include <fbxsdk.h>
-#include <fbxfilesdk/fbxfilesdk_nsuse.h>
+
+//#include <fbxfilesdk/fbxfilesdk_nsuse.h>
 
 #include "fbxReader.h"
 

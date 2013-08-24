@@ -1,7 +1,7 @@
 #ifndef FBXRANIMATION_H
 #define FBXRANIMATION_H
 
-#include <fbxfilesdk/fbxfilesdk_def.h>
+#include <fbxsdk/fbxsdk_def.h>
 #include <osgDB/ReaderWriter>
 #include <osgAnimation/BasicAnimationManager>
 #include "fbxMaterialToOsgStateSet.h"
